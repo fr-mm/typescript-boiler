@@ -10,20 +10,30 @@ A simple template for Typescript projects featuring:
 
 ## Usage
 Create your project directory and move into it
-```mkdir my-project && cd $_```
+```
+mkdir my-project && cd $_
+```
 
 Clone this repository
-```git clone git@github.com:fr-mm/typescript-boiler.git .```
+```
+git clone git@github.com:fr-mm/typescript-boiler.git .
+```
 
 Install dependencies
-```npm install```
+```
+npm install
+```
 
 And you are good to go.
 
 ## Commands
 Run your application
-```npm start```
+```
+npm start
+```
 
 Run all tests
-```npm test```
+```
+npm test
+```
 
