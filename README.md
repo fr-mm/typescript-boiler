@@ -6,7 +6,6 @@ A simple template for Typescript projects featuring:
 * [ts-node](https://www.npmjs.com/package/ts-node) execution engine
 * [tsconfig-paths](https://www.npmjs.com/package/tsconfig-paths) for absolute imports
 * [jest](https://jestjs.io/)
-* Project structure inspired by Hexagonal Architecture
 
 ## Usage
 Create your project directory and move into it
