@@ -2,9 +2,9 @@
   "name": "typescript-boiler",
   "version": "1.0.0",
   "description": "",
-  "main": "src/application/app.ts",
+  "main": "src/main.ts",
   "scripts": {
-    "start": "npx ts-node -r tsconfig-paths/register src/application/app.ts",
+    "start": "npx ts-node -r tsconfig-paths/register src/main.ts",
     "test": "jest"
   },
   "author": "",
