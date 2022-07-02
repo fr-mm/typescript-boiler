@@ -18,6 +18,11 @@ Clone this repository
 git clone git@github.com:fr-mm/typescript-boiler.git .
 ```
 
+Remove git repository
+```
+rm -rf .git
+```
+
 Install dependencies
 ```
 npm install
