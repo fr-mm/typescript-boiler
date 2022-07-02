@@ -29,8 +29,6 @@ Install dependencies
 npm install
 ```
 
-And you are good to go.
-
 ## Commands
 Run your application
 ```
